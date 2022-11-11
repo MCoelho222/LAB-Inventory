@@ -1,5 +1,7 @@
 # m3p2-labinventory
 
+This is the front-end application with all the settings needed for unit, integration, and e2e testings on the front-end. This is part of the last project for the DEVinHouse course. Next steps will be the back-end and deploy. 
+
 ## Project setup
 ```
 npm install
